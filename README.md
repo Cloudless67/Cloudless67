@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Taehoon Jang
 - 👀 Interested in fullstack development
-- 🌱 Currently learning Vue3, Typescript
+- 🌱 Currently learning Vue3, React, Typescript
 - 📫 cloudlesslakitu67@gmail.com
